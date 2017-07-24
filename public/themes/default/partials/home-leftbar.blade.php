@@ -1,4 +1,4 @@
-<div class="widget-events widget-left-panel">
+<!--<div class="widget-events widget-left-panel">
 	<div class="menu-list">
 		<ul class="list-unstyled">
 			<li class="{!! (Request::segment(1)=='' ? 'active' : '') !!}"><a href="{{ url('/') }}" class="btn menu-btn"><i class="fa fa-trophy" aria-hidden="true"></i>{{ trans('common.home') }}</a></li>

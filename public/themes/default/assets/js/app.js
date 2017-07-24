@@ -1912,12 +1912,12 @@ $('#add-members-page').on('keyup',function(){
 
         
         //smooth scroll intialization
-
-        $(".smooth-scroll").mCustomScrollbar("scrollTo","bottom",{
+        
+        /*bathuyenle$(".smooth-scroll").mCustomScrollbar("scrollTo","bottom",{
             autoHideScrollbar:true,
             theme:"rounded",
             mouseWheel:{ preventDefault: true }
-        });
+        });*/
 
         //tooltip intialization 
          $('[data-toggle="tooltip"]').tooltip();

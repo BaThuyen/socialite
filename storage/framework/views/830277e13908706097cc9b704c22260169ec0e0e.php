@@ -1,4 +1,4 @@
-<div class="widget-events widget-left-panel">
+<!--<div class="widget-events widget-left-panel">
 	<div class="menu-list">
 		<ul class="list-unstyled">
 			<li class="<?php echo (Request::segment(1)=='' ? 'active' : ''); ?>"><a href="<?php echo e(url('/')); ?>" class="btn menu-btn"><i class="fa fa-trophy" aria-hidden="true"></i><?php echo e(trans('common.home')); ?></a></li>

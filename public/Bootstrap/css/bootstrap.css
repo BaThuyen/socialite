@@ -318,10 +318,8 @@ blockquote {
   margin: 0 0 1rem; }
 
 a {
-  color: #ff5e3a;
   text-decoration: none; }
   a:focus, a:hover {
-    color: auto;
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
